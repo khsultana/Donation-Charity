@@ -163,6 +163,7 @@ section {
     display: inline-flex;
     padding: 0%;
     margin: 0%;
+
 }
 
 .flex1 {
@@ -175,6 +176,8 @@ section {
     height: 350px;
     text-align: justify;
     display: inline-flex block;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -182,4 +185,12 @@ section {
     margin: 18%;
     margin-left: 5px;
     font-size: 30px;
+}
+
+.Last {
+    width: 80Vw;
+    height: 80vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
