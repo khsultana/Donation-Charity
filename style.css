@@ -194,3 +194,59 @@ section {
     align-items: center;
     justify-content: center;
 }
+
+.Last h1 {
+    font-size: 60px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.Last p {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.Box {
+    background-color: rgb(228, 209, 209);
+    padding: 60px;
+    width: 60%;
+    margin-left: 20%;
+
+}
+
+.Box input {
+    padding: 10px;
+    border: 2px solid pink;
+}
+
+.Box button {
+    padding: 10px;
+    margin-left: -7px;
+    border: 3px solid rgb(253, 62, 62);
+    background-color: rgb(253, 62, 62);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+
+.Footer {
+    padding: 40px;
+    background-color: black;
+    margin: 0;
+    margin-top: 50px;
+
+
+}
+
+.Footer h3 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.Footer p {
+    color: aliceblue;
+    text-align: center;
+}
